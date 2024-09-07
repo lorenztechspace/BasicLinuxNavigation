@@ -1,7 +1,7 @@
 # Basic Linux Navigation
 
 ## Overview
-This project demonstrates the most essential Linux commands for file and directory navigation. It includes a simple shell script that walks through basic commands like `ls`, `cd`, and `pwd`.
+This project demonstrates the most essential Linux commands for file and directory navigation. It includes a simple walk through basic commands like `ls`, `cd`, `rm`, `mv`, `cp`, and `pwd`.
 
 ## Features
 - Display the current working directory
