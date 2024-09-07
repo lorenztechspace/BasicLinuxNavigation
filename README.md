@@ -7,11 +7,9 @@ This project demonstrates the most essential Linux commands for file and directo
 - Display the current working directory
 - Learn how to list directory contents
 - Change directories
-- Jump into a different folder
 - Copy a file to a different folder
 - How to delete a file
 - Move a folder to a different folder
-- Searching a file
 
 ## Requirements
 - Linux-based operating system
@@ -39,7 +37,16 @@ It allows you to navigate the directory or change your present working directory
 <br />
 <br />
 cp = copy <br/>
-It allows you to copy the document while moving the copy to target path <br/>
+It allows you to copy the document while moving the copy to the target path <br/>
 <img src="https://i.imgur.com/ImHxQVs.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+rm = remove <br/>
+It allows you to remove a file <br/>
+<img src="https://i.imgur.com/vAeFqmR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+mv = move <br/>
+Move a file to a different directory <br/>
+<img src="https://i.imgur.com/cYEDsPf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
